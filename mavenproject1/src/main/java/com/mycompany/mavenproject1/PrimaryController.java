@@ -9,7 +9,7 @@ public class PrimaryController {
     private void switchToSecondary() throws IOException {
         int isdf = 0;
         int a = 2;
-                int b = 2;
+        int b = 2;
 
         App.setRoot("secondary");
     }
